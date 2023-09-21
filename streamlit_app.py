@@ -6,4 +6,4 @@ streamlit.header('Breakfast Menu')
 streamlit.Text('Omega 3 & Blueberry Oatmeal')
 streamlit.Text('Kale,spinach & rocket smoothie')
 streamlit.Text('Hard boiled free-range egg')
-streamlit.Text
+
